@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\bin\Debug\livro_exercicio5.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\bin\Debug\livro_exercicio5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\bin\Debug\livro_exercicio5.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\obj\Debug\livro_exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\obj\Debug\livro_exercicio5.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio5\livro_exercicio5\obj\Debug\livro_exercicio5.pdb

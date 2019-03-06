@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\bin\Debug\livro_exercicio10.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\bin\Debug\livro_exercicio10.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\bin\Debug\livro_exercicio10.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\obj\Debug\livro_exercicio10.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\obj\Debug\livro_exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\obj\Debug\livro_exercicio10.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro1\livro_exercicio10\livro_exercicio10\obj\Debug\livro_exercicio10.pdb
